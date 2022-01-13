@@ -1,0 +1,41 @@
+.nav{
+ /* float: right; */
+ text-align: center;
+ background-image: url(https://images.unsplash.com/photo-1592484524029-92a453125da9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIzfEpwZzZLaWRsLUhrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+height:120%;
+width: 84rem;
+color: brown;
+}
+.content{
+    /* background-color:black; */
+    color: #ffebcd;
+    position:static;
+    background-image: url(https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    width:99.7%;
+    text-align: center;
+}
+.school{
+    background-image: url(https://media.istockphoto.com/photos/elearning-education-concept-learning-online-picture-id1290864946?b=1&k=20&m=1290864946&s=170667a&w=0&h=zZq7rG5McSptSIpEm9f8iTGd3Mrdkcslakr91T7qTYM=);
+     height: 250px;
+     padding:0rem;
+     color: darkgreen;
+     text-align: center;
+     flex: shadow 20px; 
+     
+}
+.hobbies{
+    color:rgb(173, 28, 28);
+    /* background-image: url(https://images.unsplash.com/photo-1610993645506-62310119735e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHViZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60); */
+    height:300px;
+    width: 100%;
+    text-align: center;
+    font-size: larger;
+    background-color: black;
+}
+.hellcat{
+background-color:black ;
+height: 250px;
+text-align: center;
+color: rgb(230, 227, 212);
+font-family: fantasy;
+}
